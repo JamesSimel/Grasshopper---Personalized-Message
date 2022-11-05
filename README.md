@@ -1,5 +1,5 @@
 # Grasshopper - Personalized Message
-
+This is a [Codewars](https://www.codewars.com/) coding challenge always known as a *Kata*
 Create a function that gives a personalized greeting. This function takes two parameters: name and owner.
 
 Use conditionals to return the proper message:
